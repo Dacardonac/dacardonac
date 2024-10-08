@@ -32,7 +32,12 @@
 &nbsp;
 ## GitHub Analytics Stats ⚙️
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dacardonac)](https://github.com/anuraghazra/github-readme-stats)
+<table style="width:100%"  align="center">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=dacardonac&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacardonac&theme=dark&hide_border=true&langs_count=10&layout=compact"></td>
+  </tr>
+</table>
 
 &nbsp;
 ## Contact Me ☎️
