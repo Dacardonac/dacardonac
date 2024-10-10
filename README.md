@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Daniel 👋👨‍💻</h1>
 <h3 align="center">A passionate Frontend developer</h3>
 
-## About Me
 
+## About Me 📄
+&nbsp;
 📍 &nbsp;I am from Colombia, more specifically from Medellin Antioquia, the city of eternal spring.
 
 🎓 &nbsp;I am currently studying Software Development focused on Frontend in a self-taught way and from home.
@@ -17,7 +18,7 @@
 
 &nbsp;
 ## My Tech Stack 🛠
-
+&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-ff8000?style=flat&logo=HTML5&logoColor=white)&nbsp;
@@ -40,7 +41,7 @@
 </table>
 
 &nbsp;
-## Contact Me ☎️
+## Contact Me 📲
 
 <p align="center">
   
