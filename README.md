@@ -3,7 +3,7 @@
 
 
 ## About Me 📄
-&nbsp;
+
 📍 &nbsp;I am from Colombia, more specifically from Medellin Antioquia, the city of eternal spring.
 
 🎓 &nbsp;I am currently studying Software Development focused on Frontend in a self-taught way and from home.
