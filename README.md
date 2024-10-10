@@ -49,7 +49,7 @@
 <a href="https://www.facebook.com/daniel.cardona.359778"><img src="https://img.shields.io/badge/-Daniel A'c-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/06___dc/?hl=es-la"><img src="https://img.shields.io/badge/-Daniel A'c-ff2b6e?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.threads.net/@06___dc"><img src="https://img.shields.io/badge/-Daniel A'c-000000?style=flate&logo=threads&logoColor=white"/></a>
-<a href="https://www.frontendmentor.io/profile/Dacardonac"><img src="https://img.shields.io/badge/-Daniel A'c-ffffff?style=flate&logo=frontendmentor&logoColor=black"/></a>
+<a href="https://www.frontendmentor.io/profile/Dacardonac"><img src="https://img.shields.io/badge/-Daniel Alejandro Cano Cardona-ffffff?style=flate&logo=frontendmentor&logoColor=black"/></a>
 </p>
 
 <div align="center">
