@@ -20,6 +20,7 @@
 ### My Tech Stack 🛠
 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-121113?style=flat&logo=vite)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-ff8000?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0000ff?style=flat&logo=CSS3&logoColor=white)\
