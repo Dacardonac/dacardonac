@@ -51,6 +51,7 @@
 <a href="https://www.instagram.com/06___dc/?hl=es-la"><img src="https://img.shields.io/badge/-Daniel A'c-ff2b6e?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.threads.net/@06___dc"><img src="https://img.shields.io/badge/-Daniel A'c-000000?style=flate&logo=threads&logoColor=white"/></a>
 <a href="https://www.frontendmentor.io/profile/Dacardonac"><img src="https://img.shields.io/badge/-Daniel Alejandro Cano Cardona-ffffff?style=flate&logo=frontendmentor&logoColor=black"/></a>
+<a href="https://x.com/Daniel_Ac201"><img src="https://img.shields.io/badge/-Daniel A'c-000000?style=flate&logo=X&logoColor=white"/></a>
 </p>
 
 <div align="center">
