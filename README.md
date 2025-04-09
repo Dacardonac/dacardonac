@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dacardonac&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dacardonac&theme=one_dark_pro&hide_border=false&"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dacardonac&theme=one_dark_pro&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dacardonac&theme=one_dark_pro&hide_border=false&layout=compact" width="420"/>
 </p>
 
 ## 🏆 GitHub Trophies
