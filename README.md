@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Daniel 👋👨‍💻</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h2 align="center">A passionate Frontend developer</h2>
 
 
 ### About Me 📄
@@ -17,17 +17,24 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dacardonac&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dacardonac&theme=one_dark_pro&hide_border=false&"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dacardonac&theme=one_dark_pro&hide_border=false&layout=compact" width="420"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dacardonac&theme=one_dark_pro&hide_border=false&"/>
 </p>
+&nbsp;
 
+<div align="center">
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dacardonac&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 &nbsp;
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+</div>
+&nbsp;
+  
+<div align="center">
+  
 ### Contact Me 📲
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/daniel.cardona.359778)
@@ -37,4 +44,6 @@
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/Dacardonac)
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white)](https://www.threads.net/@06___dc)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/Daniel_Ac201)
+</div>
 
+&nbsp;
